@@ -1,0 +1,15 @@
+D:\c#学习\路飞C#\学习代码\demo1\bin\Debug\net7.0\demo1.exe
+D:\c#学习\路飞C#\学习代码\demo1\bin\Debug\net7.0\demo1.deps.json
+D:\c#学习\路飞C#\学习代码\demo1\bin\Debug\net7.0\demo1.runtimeconfig.json
+D:\c#学习\路飞C#\学习代码\demo1\bin\Debug\net7.0\demo1.dll
+D:\c#学习\路飞C#\学习代码\demo1\bin\Debug\net7.0\demo1.pdb
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.csproj.AssemblyReference.cache
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.AssemblyInfoInputs.cache
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.AssemblyInfo.cs
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.csproj.CoreCompileInputs.cache
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.dll
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\refint\demo1.dll
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.pdb
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\demo1.genruntimeconfig.cache
+D:\c#学习\路飞C#\学习代码\demo1\obj\Debug\net7.0\ref\demo1.dll
