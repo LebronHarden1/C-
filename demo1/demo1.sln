@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo1", "demo1.csproj", "{8F043844-7C06-43E2-9DA2-5CCF02191451}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo2", "..\demo2\demo2.csproj", "{3030C70B-7FC1-4D3C-9E1C-461FB9F61B43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo1", "demo1.csproj", "{7627358E-ACB8-4612-B687-5787D8F172AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8F043844-7C06-43E2-9DA2-5CCF02191451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F043844-7C06-43E2-9DA2-5CCF02191451}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F043844-7C06-43E2-9DA2-5CCF02191451}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F043844-7C06-43E2-9DA2-5CCF02191451}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3030C70B-7FC1-4D3C-9E1C-461FB9F61B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3030C70B-7FC1-4D3C-9E1C-461FB9F61B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3030C70B-7FC1-4D3C-9E1C-461FB9F61B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3030C70B-7FC1-4D3C-9E1C-461FB9F61B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7627358E-ACB8-4612-B687-5787D8F172AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7627358E-ACB8-4612-B687-5787D8F172AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7627358E-ACB8-4612-B687-5787D8F172AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7627358E-ACB8-4612-B687-5787D8F172AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7664DD9C-4236-4CC7-BF62-C806E71B385F}
+		SolutionGuid = {7AB2858B-666E-4802-9042-19431D755438}
 	EndGlobalSection
 EndGlobal
